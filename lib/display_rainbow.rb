@@ -4,5 +4,5 @@ def display_rainbow(colors)
   colors.each do |c|
     a << "#{c[0].upcase}: #{c}"
   end
-  a * ", "
+  puts(a * ", ")
 end
