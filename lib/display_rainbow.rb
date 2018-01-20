@@ -6,5 +6,3 @@ def display_rainbow(colors)
   end
   a*", "
 end
-
-puts display_rainbow(["red", "orange", "yellow", "blue"])
