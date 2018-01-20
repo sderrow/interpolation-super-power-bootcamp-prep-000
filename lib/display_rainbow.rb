@@ -2,7 +2,7 @@
 def display_rainbow(colors)
   a = []
   colors.each do |c|
-    a << "#{c[0].upper}: c"
+    a << "#{c[0].upcase}: c"
   end
   a
 end
