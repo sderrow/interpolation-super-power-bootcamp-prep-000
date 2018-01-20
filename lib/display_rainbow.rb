@@ -7,4 +7,4 @@ def display_rainbow(colors)
   a
 end
 
-display_rainbow(["red", "orange", "yellow", "blue"])
+puts display_rainbow(["red", "orange", "yellow", "blue"])
